@@ -1,2 +1,2 @@
 # cosmic-x
-Mobile Application Using Python
+Mobile Application Using Python, CSS & HTML
