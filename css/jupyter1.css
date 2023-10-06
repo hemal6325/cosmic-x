@@ -1,0 +1,183 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.mars-about-XyT {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.mars-about-XyT .auto-group-b4gq-Uth {
+  box-sizing: border-box;
+  padding: 0rem 0rem 2.2rem 3.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK {
+  margin-bottom: 2.2rem;
+  width: 54.3rem;
+  height: 47.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .pngwing-6-Lg1 {
+  width: 47.8rem;
+  height: 47.8rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .iphone-status-bar-fTP {
+  width: 35.7603rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 1.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .iphone-status-bar-fTP .time-aKT {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .iphone-status-bar-fTP .reception-HDs {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .iphone-status-bar-fTP .wifi-1Qm {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .iphone-status-bar-fTP .battery-jrZ {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .arrowleftaltfill0wght200grad-25opsz40-11-UZF {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-bs73-byK .pngwing-9-PRK {
+  width: 47.8rem;
+  height: 47.8rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-pupr-vRF {
+  box-sizing: border-box;
+  padding: 3.9rem 2.4rem 1.9rem 1.3rem;
+  width: 36rem;
+  background-color: rgba(201, 225, 228, 0.3700000048);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-pupr-vRF .planet-FTX {
+  margin-bottom: 0.9rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-pupr-vRF .jupiter-kv5 {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2380000114;
+  letter-spacing: -0.03rem;
+  color: #ffc107;
+  font-family: Rubik Mono One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-pupr-vRF .jupiter-kv5 .jupiter-kv5-sub-0 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  letter-spacing: -0.03rem;
+  color: #fffdfa;
+  font-family: Rubik Mono One, 'Source Sans Pro';
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-pupr-vRF .jupiter-kv5 .jupiter-kv5-sub-1 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  letter-spacing: -0.03rem;
+  color: #ffc107;
+  font-family: Rubik Mono One, 'Source Sans Pro';
+}
+.mars-about-XyT .auto-group-b4gq-Uth .auto-group-pupr-vRF .mars-is-the-fourth-planet-and-the-furthest-terrestrial-planet-from-the-sun-the-reddish-color-of-its-surface-is-due-to-finely-grained-ironiii-oxide-dust-in-the-soil-giving-it-the-nickname-the-red-planet-marss-radius-is-second-smallest-among-the-planets-in-the-solar-system-at-33895-km-ywF {
+  margin-left: 1rem;
+  max-width: 31.3rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.150227356;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.mars-about-XyT .auto-group-bbiq-LfK {
+  width: 42.8rem;
+  height: 10.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

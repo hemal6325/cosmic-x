@@ -1,0 +1,914 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.mars2-18-tQH {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 {
+  box-sizing: border-box;
+  padding: 1.3rem 3.44rem 0.15rem 3.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .iphone-status-bar-kxH {
+  margin: 0rem 0rem 0.95rem 0.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .iphone-status-bar-kxH .time-5jf {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .iphone-status-bar-kxH .reception-nty {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .iphone-status-bar-kxH .wifi-X5s {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .iphone-status-bar-kxH .battery-qsF {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .auto-group-elcq-n1o {
+  margin-right: 9.512rem;
+  width: calc(100% - 9.512rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .auto-group-elcq-n1o .arrowleftaltfill0wght200grad-25opsz40-9-huT {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .auto-group-elcq-n1o .auto-group-ccw3-qEy {
+  box-sizing: border-box;
+  padding: 0.65rem 0rem 0.75rem 5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .auto-group-elcq-n1o .auto-group-ccw3-qEy .months-AHF {
+  margin-right: 3.6rem;
+  width: 12.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-fpnh-Rv1 .auto-group-elcq-n1o .auto-group-ccw3-qEy .chevron-J25 {
+  margin-top: 0.1241rem;
+  width: 1.0483rem;
+  height: 0.5241rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV {
+  margin-bottom: 2.8rem;
+  width: 74.3rem;
+  height: 55.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .card-3-Wdw {
+  box-sizing: border-box;
+  padding: 18.3rem 1.1rem 22.9rem 1rem;
+  width: 32.7rem;
+  height: 41.3rem;
+  position: absolute;
+  left: 39rem;
+  top: 14.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('.../static/images/combined-shape-KKX.png');
+}
+.mars2-18-tQH .auto-group-zjos-zvV .card-3-Wdw .line-3-1ah {
+  width: 30.6rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .bitmap-7td {
+  width: 1.1rem;
+  height: 1.1rem;
+  position: relative;
+  left: 24rem;
+  top: 26.3rem;
+  background-size: 100% 100%;
+  background-image: url('.../static/images/bitmap-721.png');
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 {
+  box-sizing: border-box;
+  padding: 1.1rem 0.2rem 1.4rem 1rem;
+  width: 32.7rem;
+  height: 41.3rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 14.5rem;
+  overflow: hidden;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('.../static/images/combined-shape-Q9P.png');
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .oval-WQy {
+  margin: 0rem 2.7rem 0.1rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: rgba(215, 215, 215, 0.200000003);
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM {
+  width: 100%;
+  height: 38.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .space-x-Jrd {
+  width: 7.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .m-Dih {
+  width: 5.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 0;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .cape-canaveral-L2d {
+  width: 12.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 18.3rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .cape-canaveral-qk5 {
+  width: 12.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 33.576rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .moon-AGZ {
+  width: 4.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 26.9rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .bfr-5uK {
+  width: 2.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 2.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .wifi-ready-DVj {
+  width: 5.3rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 6.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .zero-gravity-shows-XmK {
+  width: 10.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 9.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .x-24-kgs-baggage-rHo {
+  width: 10.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 13.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .for-1-N1F {
+  width: 2.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 2.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .leaves-at-5-30-pm-6T3 {
+  width: 9.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 21.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .d-4hr-E3T {
+  width: 3.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 24rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .d-4hr-copy-knV {
+  width: 3.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 30.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .d-12hr-nDP {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 27.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .arrives-at-1-30-am-S33 {
+  width: 9.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 36.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .suitcaseicon-Ybs {
+  width: 1.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 13rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .line-3-UkR {
+  width: 30.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 16.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .bfr-house-Rff {
+  width: 5rem;
+  height: 38rem;
+  position: relative;
+  left: 23.6rem;
+  top: 0.3rem;
+  background-size: 100% 100%;
+  background-image: url('.../static/images/bfr-house-3j7.png');
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .wifiicon-YVP {
+  width: 2.0837rem;
+  height: 1.5047rem;
+  position: absolute;
+  left: 1.0145rem;
+  top: 7.0953rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .xero-gravity-icon-fpu {
+  width: 2.1rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 10.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-zcH {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 18.5rem;
+  background-color: rgba(215, 215, 215, 0.200000003);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-X6R {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 22.4rem;
+  top: 14.5rem;
+  background-color: rgba(215, 215, 215, 0.200000003);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-reV {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 5.1rem;
+  background-color: rgba(215, 215, 215, 0.3199999928);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-PeR {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 6.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-86D {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 27.5rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-TeH {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 12.5rem;
+  background-color: rgba(215, 215, 215, 0.200000003);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-nwT {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 30.3rem;
+  top: 27.5rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .oval-LCH {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 20.5rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .standing-up-man--Grd {
+  width: 0.1886rem;
+  height: 0.4462rem;
+  position: absolute;
+  left: 29.3038rem;
+  top: 37.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .you-Qhw {
+  width: 2.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 32.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .path-3-Kpu {
+  width: 0.8356rem;
+  height: 2.2302rem;
+  position: absolute;
+  left: 29.8736rem;
+  top: 35.2897rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .path-4-f85 {
+  width: 0.2012rem;
+  height: 0.2077rem;
+  position: absolute;
+  left: 29.8546rem;
+  top: 37.3221rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .line-5-QLZ {
+  width: 0.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 23.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .space-x-po3 .auto-group-f2qr-QWM .line-4-KyK {
+  width: 0.2rem;
+  height: 2.129rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 30.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .oval-2sj {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 7.2rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj {
+  width: 40rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .auto-group-mxzt-Ujj {
+  box-sizing: border-box;
+  padding: 0.9rem 1.067rem 0.9rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .auto-group-mxzt-Ujj .item-12-Q7b {
+  margin-right: 2.1333rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .auto-group-mxzt-Ujj .item-13-jQm {
+  margin: 0.1rem 2.333rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .auto-group-mxzt-Ujj .item-14-f3X {
+  margin: 0.1rem 2.333rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .auto-group-mxzt-Ujj .item-15-BXf {
+  margin: 0.1rem 2.333rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .auto-group-mxzt-Ujj .item-16-uiZ {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .auto-group-yeqf-FXX {
+  margin-right: 1.1rem;
+  width: 4.4rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.1000000015);
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .item-18-977 {
+  margin: 0.1rem 2.333rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .item-19-HDK {
+  margin: 0.1rem 2.333rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .item-20-cFb {
+  margin: 0.3rem 2.333rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .dates-koj .item-21-wHs {
+  margin-top: 0.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK {
+  width: 34.7rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 1.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .t-QBT {
+  margin-right: 3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .w-kFK {
+  margin-right: 3.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .t-6a5 {
+  margin-right: 3.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .f-da1 {
+  margin-right: 3.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .s-BbX {
+  margin-right: 3.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .s-8mf {
+  margin-right: 2.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .m-copy-5-gHP {
+  margin-right: 3.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .t-1aZ {
+  margin-right: 3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .days-shK .w-Zc5 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .bitmap-WnD {
+  width: 1.1rem;
+  height: 1.1rem;
+  position: relative;
+  left: 19.4rem;
+  top: 10.2rem;
+  background-size: 100% 100%;
+  background-image: url('.../static/images/bitmap-Cx9.png');
+}
+.mars2-18-tQH .auto-group-zjos-zvV .line-2-RuB {
+  width: 42.7rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 12.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars2-18-tQH .auto-group-zjos-zvV .pngwing-6-NpR {
+  width: 22.8rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 31.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mars2-18-tQH .oval-selector-i7b {
+  margin-bottom: 7.2rem;
+  width: 4rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-qdf7-4BT {
+  margin: 0rem 3.4rem 1.2rem 3.5rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.249rem 1.6rem 1.6rem;
+  width: calc(100% - 6.9rem);
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(180deg, #ffffff 0%, #e6e6e6 100%);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-qdf7-4BT .select-spaceship-xnd {
+  margin-right: 18.2488rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #171717;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-qdf7-4BT .chevron-6tq {
+  margin-top: 0.0003rem;
+  width: 0.5025rem;
+  height: 1.0013rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-hy7b-NLZ {
+  box-sizing: border-box;
+  padding: 3rem 4.254rem 1.2rem 4.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 -0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-hy7b-NLZ .group-608-h7w {
+  margin-bottom: 3.5687rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-hy7b-NLZ .group-608-h7w .vector-3Sh {
+  margin-right: 11.8rem;
+  width: 2.7443rem;
+  height: 2.7313rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-hy7b-NLZ .group-608-h7w .vector-nfB {
+  margin-right: 13rem;
+  width: 4.1672rem;
+  height: 2.7313rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-hy7b-NLZ .group-608-h7w .group-585-8j3 {
+  width: 2.5344rem;
+  height: 2.7313rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars2-18-tQH .auto-group-hy7b-NLZ .line-1-fiy {
+  margin-right: 0.0458rem;
+  width: 15.4rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

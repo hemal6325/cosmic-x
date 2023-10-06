@@ -1,0 +1,506 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.jupiter-1-16-PGD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR {
+  box-sizing: border-box;
+  padding: 1.3rem 0rem 1.2rem 0.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .iphone-status-bar-qe1 {
+  margin: 0rem 3.44rem 5rem 2.7rem;
+  width: calc(100% - 6.1397rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .iphone-status-bar-qe1 .time-kky {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .iphone-status-bar-qe1 .reception-fN9 {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .iphone-status-bar-qe1 .wifi-yNq {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .iphone-status-bar-qe1 .battery-hJq {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-vwgy-qR3 {
+  margin: 0rem 13.5rem 0.4rem 2.6rem;
+  width: calc(100% - 16.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-vwgy-qR3 .arrowleftaltfill0wght200grad-25opsz40-8-ACR {
+  margin-right: 21.4rem;
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-vwgy-qR3 .oval-Uiu {
+  margin-bottom: 0.5rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: rgba(215, 215, 215, 0.3199999928);
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 51.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-icjt-YTs {
+  box-sizing: border-box;
+  padding: 3.1rem 0rem 34.8rem 0rem;
+  width: 2.6rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-icjt-YTs .oval-sm3 {
+  margin: 0rem 1.2rem 12.6rem 1rem;
+  width: calc(100% - 2.2rem);
+  height: 0.4rem;
+  background-color: rgba(215, 215, 215, 0.200000003);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-icjt-YTs .oval-zKs {
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: rgba(215, 215, 215, 0.3199999928);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 {
+  width: 42.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .bitmap-fwo {
+  width: 1.1rem;
+  height: 1.1rem;
+  position: relative;
+  left: 28.9rem;
+  top: 1.6rem;
+  background-size: 100% 100%;
+  background-image: url('.../static/images/bitmap-iPs.png');
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .dearmoon-mzq {
+  width: 22.3rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .origin-61X {
+  box-sizing: border-box;
+  padding: 0.87rem 2.452rem 0.867rem 1.757rem;
+  width: 35.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 44.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(180deg, #363636 0%, #252424 100%);
+  border-radius: 0.8rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .origin-61X .auto-group-8lhf-yLD {
+  margin-right: 10.7434rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .origin-61X .auto-group-8lhf-yLD .origin-Xcd {
+  margin-bottom: 0.3633rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .origin-61X .auto-group-8lhf-yLD .cape-canaveral-reu {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .origin-61X .oval-zFK {
+  margin: 2.797rem 6.6rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .origin-61X .chevron-hQd {
+  margin-top: 0.1215rem;
+  width: 1.0483rem;
+  height: 0.5242rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-mfP {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 11.1rem;
+  background-color: rgba(215, 215, 215, 0.200000003);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-J9X {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 20.4rem;
+  top: 22.1rem;
+  background-color: rgba(215, 215, 215, 0.3199999928);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-dhb {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 8.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-xE5 {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 23.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-Hn9 {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 39.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-RdT {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 28.4rem;
+  top: 11.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-Ab3 {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 18.1rem;
+  background-color: rgba(215, 215, 215, 0.3199999928);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-uHj {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 23.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-dzR {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 29.1rem;
+  background-color: rgba(215, 215, 215, 0.3199999928);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-yHb {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 3.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .bitmap-copy-3-78u {
+  width: 22.603rem;
+  height: 35.9023rem;
+  position: relative;
+  left: 12.2326rem;
+  top: 2.617rem;
+  background-size: 100% 100%;
+  background-image: url('.../static/images/bitmap-copy-3-pG9.png');
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .oval-DSq {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 5.1rem;
+  background-color: rgba(215, 215, 215, 0.1000000015);
+  border-radius: 0.2rem;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-6xhs-QcZ .auto-group-qdud-8S5 .pngwing-7-9bP {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 17.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf {
+  margin: 0rem 3.4rem 3.2rem 2.6rem;
+  box-sizing: border-box;
+  padding: 0.7rem 2.452rem 0.7rem 1.6rem;
+  width: calc(100% - 6rem);
+  height: 6.6rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(180deg, #363636 0%, #252424 100%);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .auto-group-gwys-y4d {
+  margin: 0.1rem 5.4rem 0.1rem 0rem;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .auto-group-gwys-y4d .passengers-6uw {
+  margin-bottom: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .auto-group-gwys-y4d .item-1-SD7 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .chevron-n25 {
+  margin: 0.124rem 3.552rem 0rem 0rem;
+  width: 1.0483rem;
+  height: 0.5242rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .line-u6h {
+  margin-right: 2.55rem;
+  width: 0.1rem;
+  height: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .auto-group-xssx-1fX {
+  margin: 0.1rem 4.2rem 0.1rem 0rem;
+  height: calc(100% - 0.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .auto-group-xssx-1fX .class-uF7 {
+  margin-bottom: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .auto-group-xssx-1fX .economy-eCh {
+  margin-left: 0.05rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-mrxr-Udf .chevron-Awj {
+  margin-top: 0.1242rem;
+  width: 1.0483rem;
+  height: 0.5242rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-doub-3kd {
+  margin: 0rem 3.4rem 0rem 2.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.249rem 1.6rem 1.6rem;
+  width: calc(100% - 6rem);
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.1000000015);
+  background: linear-gradient(180deg, #ffffff 0%, #e6e6e6 100%);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-doub-3kd .select-spaceship-MWR {
+  margin-right: 17.9488rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: #171717;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-hadf-XNR .auto-group-doub-3kd .chevron-JAm {
+  margin-top: 0.0004rem;
+  width: 0.5025rem;
+  height: 1.0012rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-jksw-n5w {
+  box-sizing: border-box;
+  padding: 3rem 4.254rem 1.2rem 4.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 -0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-jksw-n5w .group-608-tem {
+  margin-bottom: 3.5686rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-jksw-n5w .group-608-tem .vector-3Gm {
+  margin-right: 11.8rem;
+  width: 2.7443rem;
+  height: 2.7314rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-jksw-n5w .group-608-tem .vector-ZW1 {
+  margin-right: 13rem;
+  width: 4.1672rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-jksw-n5w .group-608-tem .group-585-uJy {
+  width: 2.5344rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.jupiter-1-16-PGD .auto-group-jksw-n5w .line-1-Sph {
+  margin-right: 0.0458rem;
+  width: 15.4rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

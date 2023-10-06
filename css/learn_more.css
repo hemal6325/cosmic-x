@@ -1,0 +1,479 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.iphone-13-pro-max-17-Rr1 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK {
+  width: 100%;
+  height: 82.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m {
+  width: 36rem;
+  height: 16.3rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 29.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-qf3f-pt9 {
+  margin-bottom: 1.7rem;
+  box-sizing: border-box;
+  padding: 0.4rem 14.8rem 0.4rem 0.9rem;
+  width: 100%;
+  height: 7.3rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-qf3f-pt9 .auto-group-kagr-7sF {
+  margin-right: 2.1rem;
+  box-sizing: border-box;
+  padding: 0.9rem 1.1rem 1.1rem 0.9rem;
+  height: 100%;
+  background-color: rgba(255, 252, 252, 0.6000000238);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-qf3f-pt9 .auto-group-kagr-7sF .pngwing-10-qYM {
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-qf3f-pt9 .auto-group-pwkh-Yhf {
+  margin: 1.4rem 0rem 2.1rem 0rem;
+  height: calc(100% - 3.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-qf3f-pt9 .auto-group-pwkh-Yhf .travel-without-a-return-to-mars-UbK {
+  margin-bottom: 0.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-qf3f-pt9 .auto-group-pwkh-Yhf .learn-more-aPT {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-6c2d-stM {
+  box-sizing: border-box;
+  padding: 0.4rem 13.9rem 0.4rem 0.9rem;
+  width: 100%;
+  height: 7.3rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-6c2d-stM .auto-group-28wm-oX7 {
+  margin-right: 2.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1rem 1.2rem 1rem;
+  height: 100%;
+  background-color: rgba(255, 251, 251, 0.6000000238);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-6c2d-stM .auto-group-28wm-oX7 .pngwing-11-jQm {
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-6c2d-stM .auto-group-a6ch-Ftu {
+  margin: 1.2rem 0rem 2.1rem 0rem;
+  height: calc(100% - 3.3rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-6c2d-stM .auto-group-a6ch-Ftu .travel-without-a-return-to-jupiter-ndw {
+  margin-bottom: 0.6rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-607-W6m .auto-group-6c2d-stM .auto-group-a6ch-Ftu .learn-more-uiZ {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .iphone-status-bar-RS1 {
+  width: 35.7603rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 1.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .iphone-status-bar-RS1 .time-977 {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #fffcfc;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .iphone-status-bar-RS1 .reception-fbF {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .iphone-status-bar-RS1 .wifi-zNd {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .iphone-status-bar-RS1 .battery-Kfo {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .learn-more-space-3rh {
+  width: 12.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 13.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-v99j-9uj {
+  width: 37rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 18.4rem;
+  display: flex;
+  align-items: center;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-v99j-9uj .auto-group-qegy-gem {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 1.7rem 1.9rem 1.6rem 1.9rem;
+  width: 30rem;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-v99j-9uj .auto-group-qegy-gem .group-592-Qqf {
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 0.3rem 0.358rem;
+  width: 19.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-v99j-9uj .auto-group-qegy-gem .group-592-Qqf .searchfill0wght300grad-25opsz24-1-wah {
+  margin: 0rem 1.657rem 0.305rem 0rem;
+  width: 1.3857rem;
+  height: 1.3857rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-v99j-9uj .auto-group-qegy-gem .group-592-Qqf .search-for-planet-name-rSm {
+  margin-bottom: 0.4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-v99j-9uj .rectangle-1333-YaV {
+  width: 6rem;
+  height: 5.7rem;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-606-54d {
+  width: 34.7rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 25.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-606-54d .planet-Cuw {
+  margin: 0.1rem 27.9rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .group-606-54d .show-all-8Ho {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-f7km-sFP {
+  box-sizing: border-box;
+  padding: 0.4rem 14.6rem 0.4rem 0.9rem;
+  width: 36rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 47.2rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 0.8rem;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-f7km-sFP .auto-group-qqjs-mbf {
+  margin-right: 2.1rem;
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  background-color: rgba(255, 252, 252, 0.6000000238);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-f7km-sFP .auto-group-qqjs-mbf .bitmap-copy-Wp9 {
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('.../static/images/bitmap-copy-UUR.png');
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-f7km-sFP .auto-group-nxwv-QuX {
+  margin: 1.4rem 0rem 2.1rem 0rem;
+  height: calc(100% - 3.5rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-f7km-sFP .auto-group-nxwv-QuX .travel-without-a-return-to-moon-8qX {
+  margin-bottom: 0.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-f7km-sFP .auto-group-nxwv-QuX .learn-more-3xV {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-med7-NE5 {
+  box-sizing: border-box;
+  padding: 0.4rem 14.1rem 0.4rem 0.9rem;
+  width: 36rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 56.2rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 0.8rem;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-med7-NE5 .auto-group-ejqm-GaM {
+  margin-right: 2.1rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 0.8rem 1rem;
+  height: 100%;
+  background-color: rgba(255, 251, 251, 0.6000000238);
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-med7-NE5 .auto-group-ejqm-GaM .pngwing-13-e57 {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-med7-NE5 .auto-group-xgau-wa1 {
+  margin: 1.2rem 0rem 2.1rem 0rem;
+  height: calc(100% - 3.3rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-med7-NE5 .auto-group-xgau-wa1 .travel-without-a-return-to-saturn-4uX {
+  margin-bottom: 0.6rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .auto-group-med7-NE5 .auto-group-xgau-wa1 .learn-more-ymb {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.275;
+  text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .microphone-off-Vzq {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 20.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-lir7-ZhK .arrowleftaltfill0wght200grad-25opsz40-13-2zm {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.4rem;
+  top: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-sbgm-9Jh {
+  box-sizing: border-box;
+  padding: 3.9rem 4.454rem 1.2rem 3.9rem;
+  width: 100%;
+  height: 10.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-sbgm-9Jh .vector-GPK {
+  margin: 0rem 7.056rem 2.669rem 0rem;
+  width: 2.7443rem;
+  height: 2.7314rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-sbgm-9Jh .auto-group-asqv-bAh {
+  margin-right: 6.7115rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-sbgm-9Jh .auto-group-asqv-bAh .vector-vyf {
+  margin: 0rem 1.344rem 2.669rem 0rem;
+  width: 4.1672rem;
+  height: 2.7314rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-sbgm-9Jh .auto-group-asqv-bAh .line-1-fRT {
+  width: 15.4rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.iphone-13-pro-max-17-Rr1 .auto-group-sbgm-9Jh .group-585-DSy {
+  margin-bottom: 2.6686rem;
+  width: 2.5344rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,943 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.mars-weather--Ykh {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh {
+  box-sizing: border-box;
+  padding: 1.3rem 2.6rem 1.5rem 2.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .iphone-status-bar-pCR {
+  margin: 0rem 0.84rem 3.5rem 1rem;
+  width: calc(100% - 1.8397rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .iphone-status-bar-pCR .time-8U1 {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .iphone-status-bar-pCR .reception-F2q {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .iphone-status-bar-pCR .wifi-AQh {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .iphone-status-bar-pCR .battery-h9j {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .arrowleftaltfill0wght200grad-25opsz40-11-dJH {
+  margin: 0rem 31.6rem 0.3rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw {
+  margin: 0rem 0rem 2rem 0.4rem;
+  box-sizing: border-box;
+  padding-left: 2.3rem;
+  width: 37.2rem;
+  height: 30.1rem;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(202, 225, 228, 0.3700000048);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-7tch-3cu {
+  margin-bottom: 7.6rem;
+  width: 56.5rem;
+  height: 51.4rem;
+  position: relative;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-7tch-3cu .pngwing-6-BDK {
+  width: 49.1rem;
+  height: 49.1rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-7tch-3cu .cloudy-hxM {
+  width: 5.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 27.3rem;
+  top: 36.5rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2727272727;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-7tch-3cu .item-3-DA1 {
+  width: 10.5rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 0;
+  top: 31.3rem;
+  display: flex;
+  font-size: 11.2rem;
+  font-weight: 400;
+  line-height: 0.5714285714;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-7tch-3cu .feels-like-2-VNR {
+  width: 9.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.7rem;
+  top: 36.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-7tch-3cu .mars-aem {
+  width: 4.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 16.7rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2727272727;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-7tch-3cu .search-t9f {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 34.1rem;
+  top: 17.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-8c7b-Cw3 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-8c7b-Cw3 .january-18-16-14-xvD {
+  margin: 0.8rem 13rem 0rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .frame-15-8Vw .auto-group-8c7b-Cw3 .day-3-night-1-fZj {
+  text-align: right;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-598-YtR {
+  margin: 0rem 0rem 1.8rem 0.4rem;
+  height: 4.2rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-598-YtR .auto-group-i1cd-G3j {
+  width: 11.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #5f6768;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-598-YtR .auto-group-am1b-YG9 {
+  width: 11.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(202, 225, 228, 0.3700000048);
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-598-YtR .auto-group-4haq-pzM {
+  width: 11.6rem;
+  height: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(202, 225, 228, 0.3700000048);
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT {
+  margin: 0rem 0.1rem 1.8rem 0.2rem;
+  width: calc(100% - 0.3rem);
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-c6ss-RDT {
+  margin-right: 0.9rem;
+  box-sizing: border-box;
+  padding: 0.5rem 2.4rem 0.5rem 0.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #5f6768;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-c6ss-RDT .group-14-8tZ {
+  margin: 0rem 0.691rem 1.261rem 0rem;
+  width: 2.9087rem;
+  height: 4.2391rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-c6ss-RDT .auto-group-hcrd-daR {
+  margin: 0.6rem 1.7rem 0.7rem 0rem;
+  width: 6.4rem;
+  height: calc(100% - 1.3rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-c6ss-RDT .auto-group-hcrd-daR .subhead-kf3 {
+  width: 6.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.025rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-c6ss-RDT .auto-group-hcrd-daR .header-4vd {
+  width: 5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-c6ss-RDT .km-h-yGu {
+  margin-top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.05rem;
+  color: #fffbfb;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-7vru-5Kw {
+  box-sizing: border-box;
+  padding: 1.1rem 2.2rem 1.1rem 0.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(202, 225, 228, 0.3700000048);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-7vru-5Kw .group-17-omj {
+  margin: 0.007rem 0.991rem 0rem 0rem;
+  width: 2.9087rem;
+  height: 2.9066rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-7vru-5Kw .group-11-vrM {
+  margin-right: 2.4rem;
+  width: 6.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-7vru-5Kw .group-11-vrM .header-gad {
+  width: 2.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-7vru-5Kw .group-11-vrM .subhead-o9T {
+  width: 6.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.025rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-600-hHT .auto-group-7vru-5Kw .item-10-vE5 {
+  margin-top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj {
+  margin: 0rem 0.3rem 1.8rem 0.2rem;
+  width: calc(100% - 0.5rem);
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-z1ms-A8R {
+  margin-right: 0.7rem;
+  box-sizing: border-box;
+  padding: 1.3rem 2.6rem 1rem 0.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #5f6768;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-z1ms-A8R .group-28-HTw {
+  margin: 0rem 0.691rem 0.493rem 0rem;
+  width: 2.9087rem;
+  height: 2.9066rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-z1ms-A8R .auto-group-uyg1-QYZ {
+  margin-right: 3rem;
+  width: 5.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-z1ms-A8R .auto-group-uyg1-QYZ .subhead-xa5 {
+  width: 5rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.025rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-z1ms-A8R .auto-group-uyg1-QYZ .header-tCq {
+  width: 5.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-z1ms-A8R .hpa-FBo {
+  margin-top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-13iz-92H {
+  box-sizing: border-box;
+  padding: 1.3rem 2.7rem 1rem 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(202, 225, 228, 0.3700000048);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-13iz-92H .group-15-G6u {
+  margin: 0rem 0.991rem 0.493rem 0rem;
+  width: 2.9087rem;
+  height: 2.9066rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-13iz-92H .auto-group-abjy-nqw {
+  margin-right: 4.4rem;
+  width: 4.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-13iz-92H .auto-group-abjy-nqw .subhead-LsT {
+  width: 4.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: 0.025rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-13iz-92H .auto-group-abjy-nqw .header-s6h {
+  width: 2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-601-RRj .auto-group-13iz-92H .item-03-mSy {
+  margin-top: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.4545454545;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 {
+  margin-right: 0.1rem;
+  width: 37.5rem;
+  height: 15rem;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  backdrop-filter: blur(0.2rem);
+  background-color: rgba(202, 225, 228, 0.3899999857);
+  border-radius: 1.8rem;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 {
+  width: 34.1342rem;
+  height: 8.0385rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.7rem;
+  display: flex;
+  align-items: center;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-3-gCZ {
+  margin-right: 3.1743rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-3-gCZ .now-dNh {
+  margin-bottom: 4.2385rem;
+  display: flex;
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-3-gCZ .item-10-weH {
+  margin-left: 0.1342rem;
+  display: flex;
+  font-size: 1.8795rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.0188rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-4-Sqw {
+  margin-right: 3.8904rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-4-Sqw .am-oAh {
+  margin-bottom: 4.2385rem;
+  display: flex;
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-4-Sqw .am-oAh .am-oAh-sub-0 {
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-4-Sqw .am-oAh .am-oAh-sub-1 {
+  font-size: 0.9398rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-4-Sqw .item-8-ngq {
+  margin-right: 0.1743rem;
+  display: flex;
+  font-size: 1.8795rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.0188rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-5-uWZ {
+  margin: 0rem 3.702rem 0.038rem 0rem;
+  height: calc(100% - 0.0385rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-5-uWZ .am-dxM {
+  margin-bottom: 4.2rem;
+  display: flex;
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-5-uWZ .am-dxM .am-dxM-sub-0 {
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-5-uWZ .am-dxM .am-dxM-sub-1 {
+  font-size: 0.9398rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-5-uWZ .item-5-U5o {
+  margin-left: 0.1707rem;
+  display: flex;
+  font-size: 1.8795rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.0188rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-6-BF7 {
+  margin-right: 3.6454rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-6-BF7 .pm-L81 {
+  margin-bottom: 4.2385rem;
+  display: flex;
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-6-BF7 .pm-L81 .pm-L81-sub-0 {
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-6-BF7 .pm-L81 .pm-L81-sub-1 {
+  font-size: 0.9398rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-6-BF7 .item-12-fJh {
+  margin-left: 0.133rem;
+  display: flex;
+  font-size: 1.8795rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.0188rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-7-neD {
+  margin-right: 4.1546rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-7-neD .pm-jpM {
+  margin-bottom: 4.2385rem;
+  display: flex;
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-7-neD .pm-jpM .pm-jpM-sub-0 {
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-7-neD .pm-jpM .pm-jpM-sub-1 {
+  font-size: 0.9398rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-7-neD .item-9-4VF {
+  margin-left: 0.0093rem;
+  display: flex;
+  font-size: 1.8795rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.0188rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-23-sSh {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-23-sSh .pm-dRs {
+  margin: 0rem 0rem 4.238rem 0.054rem;
+  display: flex;
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-23-sSh .pm-dRs .pm-dRs-sub-0 {
+  font-size: 1.3157rem;
+  font-weight: 400;
+  line-height: 1.4285714079;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-23-sSh .pm-dRs .pm-dRs-sub-1 {
+  font-size: 0.9398rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0132rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-9-yZ3 .group-23-sSh .item-12-k97 {
+  display: flex;
+  font-size: 1.8795rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.0188rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-599-fms {
+  width: 34.1rem;
+  height: 3.5219rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 3.8rem;
+  display: flex;
+  align-items: center;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-599-fms .group-C17 {
+  margin: 0.2rem 3.407rem 0rem 0rem;
+  width: 2.4932rem;
+  height: 3.3219rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-599-fms .cloud-vho {
+  margin: 0rem 3.1rem 0.122rem 0rem;
+  width: 3.2rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-599-fms .cloud-r5f {
+  margin: 0rem 3.1rem 0.122rem 0rem;
+  width: 3.2rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-599-fms .group-mTX {
+  margin: 0rem 3.607rem 0.2rem 0rem;
+  width: 2.4932rem;
+  height: 3.3219rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-599-fms .group-hMB {
+  margin: 0.2rem 3.807rem 0rem 0rem;
+  width: 2.4932rem;
+  height: 3.3219rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-xre1-hNh .group-27-sW1 .group-18-281 .group-599-fms .cloud-2PT {
+  margin-bottom: 0.1219rem;
+  width: 3.2rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-smff-WZX {
+  box-sizing: border-box;
+  padding: 3rem 4.454rem 4.769rem 4.1rem;
+  width: 100%;
+  height: 10.5rem;
+  box-shadow: 0 -0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-smff-WZX .group-603-33f {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.mars-weather--Ykh .auto-group-smff-WZX .group-603-33f .vector-zUh {
+  margin-right: 11.8rem;
+  width: 2.7443rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-smff-WZX .group-603-33f .vector-L2m {
+  margin-right: 13rem;
+  width: 4.1672rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-weather--Ykh .auto-group-smff-WZX .group-603-33f .group-585-soP {
+  width: 2.5344rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,175 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.mars-about-Dhs {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV {
+  box-sizing: border-box;
+  padding: 0rem 0rem 2.2rem 3.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH {
+  margin-bottom: 2.2rem;
+  width: 54.3rem;
+  height: 47.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH .pngwing-6-Ecy {
+  width: 47.8rem;
+  height: 47.8rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH .iphone-status-bar-NUH {
+  width: 35.7603rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 1.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH .iphone-status-bar-NUH .time-hFf {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH .iphone-status-bar-NUH .reception-c7j {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH .iphone-status-bar-NUH .wifi-L3j {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH .iphone-status-bar-NUH .battery-3yj {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-po8m-VvH .arrowleftaltfill0wght200grad-25opsz40-11-nwK {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-srmw-Jem {
+  width: 36rem;
+  height: 38.5rem;
+  position: relative;
+  background-color: rgba(201, 225, 228, 0.3700000048);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-srmw-Jem .planet-qub {
+  width: 5.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 3.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-srmw-Jem .mars-LrM {
+  width: 21.7rem;
+  height: 8rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 6.2rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Rubik Mono One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-srmw-Jem .mars-LrM .mars-LrM-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  letter-spacing: -0.03rem;
+  color: #ffc107;
+  font-family: Rubik Mono One, 'Source Sans Pro';
+}
+.mars-about-Dhs .auto-group-w3bx-mUV .auto-group-srmw-Jem .mars-is-the-fourth-planet-and-the-furthest-terrestrial-planet-from-the-sun-the-reddish-color-of-its-surface-is-due-to-finely-grained-ironiii-oxide-dust-in-the-soil-giving-it-the-nickname-the-red-planet-marss-radius-is-second-smallest-among-the-planets-in-the-solar-system-at-33895-km-NgZ {
+  width: 31.3rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 13.5rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.150227356;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.mars-about-Dhs .auto-group-rzxf-TrR {
+  width: 42.8rem;
+  height: 10.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

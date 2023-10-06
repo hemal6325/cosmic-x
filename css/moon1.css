@@ -1,0 +1,177 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.moon-about-WAD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.moon-about-WAD .auto-group-dxxo-FNh {
+  box-sizing: border-box;
+  padding: 0rem 0rem 3.7rem 3.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF {
+  margin-bottom: 3.9rem;
+  width: 54.4rem;
+  height: 51.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF .iphone-status-bar-KNZ {
+  width: 35.7603rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 1.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF .iphone-status-bar-KNZ .time-STB {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF .iphone-status-bar-KNZ .reception-Mq3 {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF .iphone-status-bar-KNZ .wifi-61w {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF .iphone-status-bar-KNZ .battery-1ub {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF .bitmap-copy-2-ZAR {
+  width: 51.6rem;
+  height: 51.6rem;
+  position: relative;
+  left: 2.8rem;
+  top: 0;
+  background-size: 100% 100%;
+  background-image: url('.../static/images/bitmap-copy-2-N8y.png');
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-dur7-BXF .arrowleftaltfill0wght200grad-25opsz40-11-GKj {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-tyqy-P9T {
+  margin-left: 0.8rem;
+  width: 36rem;
+  height: 38.5rem;
+  position: relative;
+  background-color: rgba(201, 225, 228, 0.3700000048);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-tyqy-P9T .moon-ixR {
+  width: 21.7rem;
+  height: 8rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 7.7rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Rubik Mono One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-tyqy-P9T .moon-ixR .moon-ixR-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2375;
+  letter-spacing: -0.03rem;
+  color: #ffc107;
+  font-family: Rubik Mono One, 'Source Sans Pro';
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-tyqy-P9T .the-moon-earths-natural-satellite-orbits-at-an-average-distance-of-238855-miles-384400-km-it-lacks-an-atmosphere-and-experiences-extreme-temperature-variations-the-moons-gravitational-pull-influences-earths-tides-and-has-been-explored-by-astronauts-during-the-apollo-missions-SvM {
+  width: 30.7rem;
+  height: 23.1rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 15rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.150227356;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.moon-about-WAD .auto-group-dxxo-FNh .auto-group-tyqy-P9T .planet-Qkh {
+  width: 5.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 5.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.moon-about-WAD .auto-group-hg65-tQy {
+  width: 42.8rem;
+  height: 10.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

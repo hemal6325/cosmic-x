@@ -1,0 +1,361 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.mars-home-bgd {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.mars-home-bgd .auto-group-bvah-x1P {
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 63rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .rocket-1-gxy {
+  width: 29.2167rem;
+  height: 29.2168rem;
+  position: absolute;
+  left: 0;
+  top: 26.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mars-home-bgd .auto-group-bvah-x1P .iphone-status-bar-2G9 {
+  width: 35.7603rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 1.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.mars-home-bgd .auto-group-bvah-x1P .iphone-status-bar-2G9 .time-jwF {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .iphone-status-bar-2G9 .reception-3S9 {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .iphone-status-bar-2G9 .wifi-y4u {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .iphone-status-bar-2G9 .battery-6QR {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-614-SDP {
+  box-sizing: border-box;
+  padding: 1.7rem 2rem 0.3rem 2rem;
+  width: 10.9rem;
+  height: 11rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.3rem;
+  top: 52rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(130, 130, 130, 0.3700000048);
+  border-radius: 1.5rem;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-614-SDP .rain-1-8ru {
+  margin-bottom: 1.1rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-614-SDP .w-HE1 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-618-bVb {
+  box-sizing: border-box;
+  padding: 1.7rem 1.4rem 0.3rem 1.3rem;
+  width: 10.9rem;
+  height: 11rem;
+  position: absolute;
+  left: 16rem;
+  top: 52rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(130, 130, 130, 0.3700000048);
+  border-radius: 1.5rem;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-618-bVb .clock-1-tzV {
+  margin: 0rem 0rem 1.1rem 0.1rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-618-bVb .time-DG5 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-617-Kpu {
+  box-sizing: border-box;
+  padding: 1.7rem 2.1rem 0.3rem 1.8rem;
+  width: 10.9rem;
+  height: 11rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 52rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(130, 130, 130, 0.3700000048);
+  border-radius: 1.5rem;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-617-Kpu .distance-1-pWm {
+  margin: 0rem 0rem 1.1rem 0.1rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .group-617-Kpu .distance-YxZ {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-bvah-x1P .pngwing-7-NAu {
+  width: 50.2rem;
+  height: 50.2rem;
+  position: absolute;
+  left: 16rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mars-home-bgd .auto-group-bvah-x1P .arrowleftaltfill0wght200grad-25opsz40-12-hU5 {
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.4rem;
+  top: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.mars-home-bgd .auto-group-cpch-Cvd {
+  margin: 0rem 3.2rem 7.1rem 3.3rem;
+  width: calc(100% - 6.5rem);
+  height: 11rem;
+  display: flex;
+  column-gap: 1.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-613-ie5 {
+  box-sizing: border-box;
+  padding: 1.7rem 1.7rem 0.4rem 1.7rem;
+  width: 10.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(130, 130, 130, 0.3700000048);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-613-ie5 .wind-1-3RT {
+  margin-bottom: 1rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-613-ie5 .atmosphere-BGm {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-616-Umf {
+  box-sizing: border-box;
+  padding: 1.7rem 2.5rem 0.4rem 2.4rem;
+  width: 10.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(130, 130, 130, 0.3700000048);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-616-Umf .mission-1-QQR {
+  margin: 0rem 0rem 1rem 0.1rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-616-Umf .mission-wQM {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-615-2Ro {
+  box-sizing: border-box;
+  padding: 1.7rem 2.8rem 0.4rem 2.6rem;
+  width: 10.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(130, 130, 130, 0.3700000048);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-615-2Ro .light-bulb-1-Yuw {
+  margin-bottom: 1rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-cpch-Cvd .group-615-2Ro .facts-9uj {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-wdpd-4G1 {
+  box-sizing: border-box;
+  padding: 3rem 4.454rem 1.2rem 4.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 -0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-wdpd-4G1 .group-603-PJH {
+  margin-bottom: 3.5686rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-wdpd-4G1 .group-603-PJH .vector-wKo {
+  margin-right: 11.8rem;
+  width: 2.7443rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-wdpd-4G1 .group-603-PJH .vector-sDT {
+  margin-right: 13rem;
+  width: 4.1672rem;
+  height: 2.7314rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-wdpd-4G1 .group-603-PJH .group-585-p8h {
+  width: 2.5344rem;
+  height: 2.7314rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mars-home-bgd .auto-group-wdpd-4G1 .line-1-9wf {
+  margin-left: 0.3542rem;
+  width: 15.4rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

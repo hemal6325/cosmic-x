@@ -1,0 +1,295 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42.8rem;
+}.profile-rWu {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #201f1f;
+}
+.profile-rWu .auto-group-o9fw-1Po {
+  box-sizing: border-box;
+  padding: 1.3rem 3.44rem 2.1rem 3.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .iphone-status-bar-8jK {
+  margin: 0rem 0rem 5rem 0.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .iphone-status-bar-8jK .time-4ss {
+  margin-right: 24.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Abel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .iphone-status-bar-8jK .reception-yE9 {
+  margin: 0rem 0.585rem 0.1rem 0rem;
+  width: 1.815rem;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .iphone-status-bar-8jK .wifi-VyB {
+  margin: 0rem 0.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .iphone-status-bar-8jK .battery-SNd {
+  margin-bottom: 0.15rem;
+  width: 2.6603rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-zbkf-B5K {
+  margin: 0rem 10.06rem 1.5rem 0rem;
+  width: calc(100% - 10.0603rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-zbkf-B5K .arrowleftaltfill0wght200grad-25opsz40-9-HPF {
+  margin-right: 6rem;
+  width: 4rem;
+  height: 4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-zbkf-B5K .christian-buehner-ditylc26zvi-unsplash-1-1KF {
+  margin-top: 2rem;
+  width: 15.9rem;
+  height: 16.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 23.85rem;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .shakib-hossain-Jp9 {
+  margin: 0rem 0rem 1.2rem 0.04rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .personal-info-cpq {
+  margin: 0rem 19.56rem 1.7rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ff9a70;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-bva9-wcD {
+  margin: 0rem 0.06rem 1.4rem 0.1rem;
+  box-sizing: border-box;
+  padding: 2rem 3.1rem 4.4rem 2.9rem;
+  width: calc(100% - 0.1603rem);
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 0.2rem 1rem rgba(255, 255, 255, 0.5);
+  background-color: #fdfbf9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-bva9-wcD .about-me-dV3 {
+  margin-bottom: 2.2rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: rgba(32, 31, 31, 0.8199999928);
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-bva9-wcD .auto-group-wahp-Mvq {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  height: 5.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-bva9-wcD .auto-group-wahp-Mvq .james-bond-is-a-results-driven-marketing-manager-with-a-passion-for-leveraging-innovative-strategies-to-drive-brand-growth-and-customer-engagement-in-the-ever-evolving-digital-landscape-WYq {
+  width: 29.8rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4202272415;
+  letter-spacing: 0.005rem;
+  color: #201f1f;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-bva9-wcD .auto-group-wahp-Mvq .line-1-9Lu {
+  width: 3.8rem;
+  height: 0.03rem;
+  position: absolute;
+  left: 0;
+  top: 1.6rem;
+  background-color: #ff9a70;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-bva9-wcD .feel-free-to-reach-me-out-for-any-specific-queries-Ue5 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4202272415;
+  letter-spacing: 0.005rem;
+  color: #201f1f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP {
+  margin: 0rem 0.06rem 0rem 0.1rem;
+  box-sizing: border-box;
+  padding: 2.1rem 5.7rem 5.447rem 2.9rem;
+  width: calc(100% - 0.1603rem);
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.2rem 0.2rem 1rem rgba(255, 255, 255, 0.25);
+  background-color: #fdfbf9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .contact-here-q7F {
+  margin-bottom: 2.2rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: rgba(32, 31, 31, 0.8199999928);
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-fzpd-A9X {
+  margin: 0rem 14.9rem 1.206rem 1.1rem;
+  width: calc(100% - 16rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-fzpd-A9X .icon-call-gdf {
+  margin-right: 2rem;
+  width: 1.5rem;
+  height: 1.2938rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-fzpd-A9X .item-92-1234567890-1vq {
+  margin-bottom: 0.0938rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #201f1f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .line-2-8kZ {
+  margin-bottom: 0.77rem;
+  width: 3.5rem;
+  height: 0.03rem;
+  background-color: #ff9a70;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-ehvr-H7f {
+  margin: 0rem 10.5rem 2.183rem 1.1rem;
+  width: calc(100% - 11.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-ehvr-H7f .icon-mail-D1K {
+  margin-right: 2rem;
+  width: 1.5rem;
+  height: 1.0172rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-ehvr-H7f .jamesbond89gmailcom-Xnh {
+  margin-bottom: 0.0172rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #201f1f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-leks-Fih {
+  margin-left: 1.2rem;
+  width: calc(100% - 1.2rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-leks-Fih .icon-location-sharp-oER {
+  margin: 0.1rem 2.114rem 0rem 0rem;
+  width: 1.2857rem;
+  height: 1.5531rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-o9fw-1Po .auto-group-wtch-LRP .auto-group-leks-Fih .street-2-house-05-motarway-route-road-usa-81o {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #201f1f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-rWu .auto-group-1hnq-z41 {
+  width: 42.8rem;
+  height: 10.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
